@@ -16,7 +16,7 @@ const Hero = () => {
             Fast, flexible financing for {''}
           </p>
 
-          <span className="md:text-5xl pl-2 sm:text-4xl text-xl font-bold ml-2  ">
+          <span className="md:text-5xl pl-2 sm:text-4xl text-xl font-bold md:ml-13  ">
             <Typewriter
               // className="md:text-5xl, sm:text-4xl text-xl font-bold"
               words={['  B2B', 'B2C ', 'SaaS']}

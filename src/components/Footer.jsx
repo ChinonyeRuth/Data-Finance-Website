@@ -13,8 +13,8 @@ const Footer = () => {
       <div>
         <h1 className="w-full text-3xl font-bold text-[#00df9a] ">REACT.</h1>
         <p className="py-4">
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rem fugit
-          enim nulla commodi voluptatibus, ipsa hic quis a culpa sit!
+          Unlock the Power of Growth Through Data Analytics: Empowering
+          Organizations to Thrive in the Digital Age
         </p>
 
         <div className="flex justify-between md:w-[75%] my-6">
@@ -34,7 +34,7 @@ const Footer = () => {
             <li className="py-2 text-sm">Analytics</li>
             <li className="py-2 text-sm">Marketing</li>
             <li className="py-2 text-sm">Commerce</li>
-            <li className="py-2 text-sm">InsightsAnalytics</li>
+            <li className="py-2 text-sm">Insights</li>
           </ul>
         </div>
 

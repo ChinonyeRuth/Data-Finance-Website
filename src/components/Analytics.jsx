@@ -14,10 +14,11 @@ const Analytics = () => {
             Manage Data Analytics Centrally
           </h1>
           <p className="">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium
-            veniam accusantium odio nostrum fugiat, temporibus illo ab facere?
-            Dignissimos molestiae consectetur quidem sit eaque beatae quam
-            praesentium, nihil sed nobis!
+            Centralized data analytics management allows you to bring together
+            disparate data sources and consolidate them into a unified,
+            structured platform. By eliminating data silos and creating a single
+            source of truth, you gain a holistic view of your organization's
+            data landscape
           </p>
 
           <button className=" bg-black text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto  md:mx-0 py-3">
